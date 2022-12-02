@@ -1,9 +1,8 @@
 # Blop
-Olusturulma tarihi:11 ‎Temmuz‎ 2019
+Created on:11 ‎July 2019
 
-Unity ile yapılmış altıgen tabanlı puzzle oyunudur. 
+It is a hexagon-based puzzle game made with Unity.
 
- 
- Projenin library klasörü boyut sebebiyle silinmiştir. Proje unity ile açılınca yeniden oluşturulacaktır.
- 
- Oyun Linki : https://www.kongregate.com/games/H2KGAMES/blop
+The project's library folder has been deleted due to size. When the project is opened with unity, it will be rebuilt.
+
+Game Link : https://www.kongregate.com/games/H2KGAMES/blop
